@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Document</title>
+</head>
+<body>
+  <form>
+    <input 
+      type="text"
+      placeholder="Digite o seu nome"
+      required
+    />
+    <input 
+      type="email" 
+      placeholder="Digite o seu e-mail"
+      required
+    />
+    <input 
+      type="number"
+      placeholder="Digite a sua idade"
+      required
+    />
+    <select name="Genero">
+      <option value="feminino">Feminino</option>
+      <option value="masculino" selected>Masculino</option>
+    </select>
+    <input 
+      type="date"
+      required
+    />
+
+    <p>Selecione qual o seu cenário atual como desenvolvedor:</p>
+
+    <label>
+      <input type="radio" value="profissional" name="option" checked>
+      Profissional
+    </label>
+
+    <label>
+      <input type="radio" value="estudante" name="option">
+      Estudante
+    </label>
+
+    <label>
+      <input type="radio" value="professor" name="option">
+      Professor
+    </label> 
+    <br/><br/>
+
+    <label>
+      <input type="checkbox" name="concordo" value="concordo" required>
+      Eu li e concordo com os termos e politicas da empresa
+    </label>
+
+    <br/><br/>
+
+    <input 
+      type="password" 
+      placeholder="Digite uma senha"
+      required
+    />
+
+    <button type="submit">Enviar</button>
+  </form>
+</body>
+</html>

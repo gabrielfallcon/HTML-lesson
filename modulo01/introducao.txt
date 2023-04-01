@@ -1,0 +1,15 @@
+HTML = HyperText Markup language (Linguagem de marca'ão de hipertexto)
+browser = navegadores webs (Chrome, Safari, Firefox)
+
+Tags = <p> <h1> <html> <body>
+Atributos = <p class=""> <p id=""> <img src=""> <a href="">
+Valores = <p class="propriedades">
+
+Tags de formatacao de texto:
+
+<strong> aplica negrito ao texto
+<i> aplica italico ao texto
+<u> aplica sublinhado ao texto
+<s> aplica um risco no meio do texto
+<sup> subrescrito ao texto
+<sub> subscrito ao texto 
