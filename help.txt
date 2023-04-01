@@ -1,0 +1,1 @@
+git merge = serve para mesclar as versoes de duas branchs diferentes
