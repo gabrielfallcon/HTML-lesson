@@ -1,0 +1,6 @@
+git init = quando eu quero confirgurar um repositorio em uma pasta para subir meu codigo no github
+git add = quando eu quero adicionar uma alteracao de um arquivo no meu commit
+git status = quando euq uero ver o status dos arquivos adicionados no meu commit
+git commit = quando eu quero criar uma alteracao do meu codigo com uma mensagem descrevendo as alteracoes realizadas
+git push = quando eu quero subir os meus commits para a repositorio remoto(github)
+git pull = quando eu quero atualizar o meu repositorio local com as alteracoes realizadas no repositorio remoto(github)
